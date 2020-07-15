@@ -1,6 +1,6 @@
 # Mapping of Brain Signals - BCS 2020 Summer Project
 
-This Summer Project is carried out under the Brain Cogntive Society, IIT Kanpur during April 2020 - July 2020
+This Summer Project is carried out under the Brain and Cognitive Society, IIT Kanpur during April 2020 - July 2020
 
 ## Objective
 
@@ -21,6 +21,8 @@ The goals hence, can be outlined as:
 * Study, record, process, observe, analyse, discuss and present results obtained from the research study by implementing everything learnt to organic data.
 * Compile results and derive a comprehensible conclusion.
 
+The basic visual representation of the experimental setup can be see [here](https://bcsiitk.slack.com/files/U010L6U5ZA6/F013LJQJXAQ/intro_tasks.pdf)
+
 ## Ideation
 
 The project has been inspired by the three results. First, placebo-analgesia reduces self-pain as well as empathy for pain. Second, acetaminophen reduces empathy for pain. Lastly, acetaminophen blunts evaluation of both positive and negative stimuli.
@@ -33,13 +35,13 @@ The filtered data will be used in data analysis which will be done using the met
 
 ## Methodology
 
-**EEGLAB Tutorials:** This MATLAB toolbox will be used to analyse the data.
+**[EEGLAB Tutorials](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/tree/master/eeglab_tutorials):** This MATLAB toolbox will be used to analyse the data.
 
-**Artifact Removal:** Removal of saccade and blink artifacts, manually by code and cross-checking with toolbox.
+**[Artifact Removal](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/tree/master/artifact_removal):** Removal of saccade and blink artifacts, manually by code and cross-checking with toolbox.
 
-**Literature Reviews:** To understand artifact removal techniques and data analysis.
+**[Literature Reviews](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/tree/master/litrature_reviews):** To understand artifact removal techniques and data analysis.
 
-**Data Analysis:** Analysing ERP signals from Bilateral Anterior Insula to study the effects of acetaminophen on empathy.  
+**[Data Analysis](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/tree/master/data_analysis):** Analysing ERP signals from Bilateral Anterior Insula to study the effects of acetaminophen on empathy.  
 
 ## Impact
 
