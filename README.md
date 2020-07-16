@@ -21,6 +21,8 @@ The goals hence, can be outlined as:
 * Study, record, process, observe, analyse, discuss and present results obtained from the research study by implementing everything learnt to organic data.
 * Compile results and derive a comprehensible conclusion.
 
+## Experimental Setup
+
 The basic visual representation of the experimental setup can be see [here](https://bcsiitk.slack.com/files/U010L6U5ZA6/F013LJQJXAQ/intro_tasks.pdf)
 
 ## Ideation
