@@ -16,7 +16,8 @@ Saccades:
 
 Blinks: 
 
-Another method which was explored by the team was with the use of the **EYE-EEG toolbox** of EEGLAB, the toolbox
+Another method which was explored by the team was with the use of the **EYE-EEG toolbox** of EEGLAB, which establishes a connection between eye tracking (ET) and EEG data by synchronizing them and gives an option of optimized ICA decomposition on the basis of detected time stamps for saccades as well as blanks which guarantees improved filters. The [tutorial](http://www2.hu-berlin.de/eyetracking-eeg/tutorial.html) for the toolbox can be seen in the link.
+The toolbox presents 3 ways to do so, out of which, the method with Messages + Triggers seems suitable for our study. The format of the recorded data does not suit the toolbox as it is. So, the team was working on reformatting the data, manually by finding out messages and triggers.
 
 **References:**
 
