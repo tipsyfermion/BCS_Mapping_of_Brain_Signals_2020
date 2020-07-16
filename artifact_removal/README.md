@@ -2,14 +2,15 @@
 
 **Why do we have to look at the eye data?**
 
-- [Eye movements on EEG (youtube video)](https://www.youtube.com/watch?v=-71ppPF02qw)
+- [Eye movements on EEG (youtube video)](https://www.youtube.com/watch?v=-71ppPF02qw)  
 The Eye being polar intereferes with the recording of the EEG data which is suscpetible to noise and disturbance. The Eye tracking data is most prominently removed and optimzied due to the eye being polar and the recording channels being close to the Eye. There are other modes of noise too but these can be generally neglected.
 
-**Saccades and Blinks**
+**Saccades and Blinks:**
 
+- Saccade: A saccade is a quick, simultaneous movement of both eyes between two or more phases of fixation in the same direction. These can be categorised by their high velocities and rapid acceleration, using which saccades can be detected and EEG data optimized.
+- Blink: Going by the definition blink is the process of shutting and opening the eyes quickly. A blink can be detected 
 
-
-**Methodology**
+**Methodology:**
 
 
 
