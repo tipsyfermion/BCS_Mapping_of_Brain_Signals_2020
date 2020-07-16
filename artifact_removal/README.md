@@ -19,7 +19,7 @@ Blinks:
 Another method which was explored by the team was with the use of the **EYE-EEG toolbox** of EEGLAB, which establishes a connection between eye tracking (ET) and EEG data by synchronizing them and gives an option of optimized ICA decomposition on the basis of detected time stamps for saccades as well as blanks which guarantees improved filters. The [tutorial](http://www2.hu-berlin.de/eyetracking-eeg/tutorial.html) for the toolbox can be seen in the link.
 The toolbox presents 3 ways to do so, out of which, the method with Messages + Triggers seems suitable for our study. The format of the recorded data does not suit the toolbox as it is. So, the team was working on reformatting the data, manually by finding out messages and triggers.
 
-**References:**
+#### References:
 
 - [An improved algorithm for automatic detection of saccades in eye movement data and for calculating saccade parameters](https://link.springer.com/article/10.3758%2FBRM.42.3.701)
 - [Optimizing the ICA-based removal of ocular EEG artifacts from free viewing experiments](https://reader.elsevier.com/reader/sd/pii/S1053811919307086?token=AD12D8C5F5118E4808397933D94A17C2D52070BD4C7FF16DFB37694C354736F3876A62D65CDA5131DD0578879B06C857)
