@@ -23,7 +23,7 @@ The goals hence, can be outlined as:
 
 ## Experimental Setup
 
-The basic visual representation of the experimental setup can be see [here](https://bcsiitk.slack.com/files/U010L6U5ZA6/F013LJQJXAQ/intro_tasks.pdf)
+The basic visual representation of the experimental setup can be see [here](https://drive.google.com/file/d/1HyKEVQfpubYEh-ObdRBeRtYcTsUdrU9C/view?usp=sharing)
 
 ## Ideation
 
