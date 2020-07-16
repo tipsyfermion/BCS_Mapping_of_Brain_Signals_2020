@@ -2,7 +2,7 @@
 
 **Why do we have to look at the eye data?**
 
-- [Eye movements on EEG (youtube video)](https://www.youtube.com/watch?v=-71ppPF02qw)  
+[Eye movements on EEG (youtube video)](https://www.youtube.com/watch?v=-71ppPF02qw)  
 The Eye being polar intereferes with the recording of the EEG data which is suscpetible to noise and disturbance. The Eye tracking data is most prominently removed and optimzied due to the eye being polar and the recording channels being close to the Eye. There are other modes of noise too but these can be generally neglected.
 
 **Saccades and Blinks:**
@@ -12,7 +12,11 @@ The Eye being polar intereferes with the recording of the EEG data which is susc
 
 **Methodology:**
 
+Saccades: 
 
+Blinks: 
+
+Another method which was explored by the team was with the use of the **EYE-EEG toolbox** of EEGLAB, the toolbox
 
 **References:**
 
