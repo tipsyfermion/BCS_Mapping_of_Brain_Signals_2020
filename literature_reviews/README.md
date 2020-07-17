@@ -1,6 +1,6 @@
 ## Literature Review
 
-An extensive literature review was undertaken related to Brain Mapping and EEG data through Empathy for Pain with a few papers hosting slight variations from the topic but promising an excellent insight into the topic. The literature review spanned over a course of 3 weeks with weekly meetings where the students reading and analyzing the particular paper would present their findings to the rest of the group to have a discussion and improve the level of understanding.
+An extensive literature review was undertaken related to Mapping of Brain Signals and EEG data through Empathy for Pain with a few papers hosting slight variations from the topic but promising an excellent insight into the topic. The literature review spanned over a course of 3 weeks with weekly meetings where the students reading and analyzing the particular paper would present their findings to the rest of the group to have a discussion and improve the level of understanding.
 
 **The papers discussed in the first week:**
 * [Frequency-dependent changes in sensorimotor and pain affective systems induced by empathy for pain](https://www.researchgate.net/publication/317255692_Frequency-dependent_changes_in_sensorimotor_and_pain_affective_systems_induced_by_empathy_for_pain)
