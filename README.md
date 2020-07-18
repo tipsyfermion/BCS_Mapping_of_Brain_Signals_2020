@@ -23,7 +23,7 @@ The goals hence, can be outlined as:
 
 ## Experimental Setup
 
-The basic visual representation of the experimental setup can be see [here](https://drive.google.com/file/d/1HyKEVQfpubYEh-ObdRBeRtYcTsUdrU9C/view?usp=sharing)
+The basic visual representation of the experimental setup can be see [here](https://drive.google.com/file/d/1ULMd8v2gAWWLxDXuToSk303TEg_dvoNY/view?usp=sharing)
 
 ## Ideation
 
@@ -75,4 +75,12 @@ EEG is being used to measure the gap between what consumers really pay attention
 * Swapnil Singh
 
 ## Resources
+- [Literature Review 1](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/blob/master/literature_reviews/README.md#the-papers-discussed-in-the-first-week)
+- [Literature Review 2](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/blob/master/literature_reviews/README.md#the-papers-read-and-analyzed-in-the-next-week)
+- [EEGLAB tutorial](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/tree/master/eeglab_tutorials)
+- [Artifact Removal](https://github.com/Debu922/BCS_Mapping_of_Brain_Signals_2020/tree/master/artifact_removal#references)
+- [EYE-EEG toolbox](http://www2.hu-berlin.de/eyetracking-eeg/tutorial.html)
+- [EMOTIV Epoc Flex](https://www.emotiv.com/eeg-guide/)
 
+## Evaluation presentation
+[Google slides](https://docs.google.com/presentation/d/11ijzheI_NN4kHeGdh68qB8E4agVoky1mTWA9hoRth30/edit?usp=sharing)

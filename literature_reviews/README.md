@@ -1,8 +1,8 @@
 ## Literature Review
 
-An extensive literature review was undertaken related to Brain Mapping and EEG data through Empathy for Pain with a few papers hosting slight variations from the topic but promising an excellent insight into the topic. The literature review spanned over a course of 3 weeks with weekly meetings where the students reading and analyzing the particular paper would present their findings to the rest of the group to have a discussion and improve the level of understanding.
+An extensive literature review was undertaken related to Mapping of Brain Signals and EEG data through Empathy for Pain with a few papers hosting slight variations from the topic but promising an excellent insight into the topic. The literature review spanned over a course of 3 weeks with weekly meetings where the students reading and analyzing the particular paper would present their findings to the rest of the group to have a discussion and improve the level of understanding.
 
-**The papers discussed in the first week:**
+#### The papers discussed in the first week:
 * [Frequency-dependent changes in sensorimotor and pain affective systems induced by empathy for pain](https://www.researchgate.net/publication/317255692_Frequency-dependent_changes_in_sensorimotor_and_pain_affective_systems_induced_by_empathy_for_pain)
 * [Impaired Empathy Processing in Individuals with Internet Addiction Disorder: An Event-Related Potential Study](https://www.researchgate.net/publication/320297873_Impaired_Empathy_Processing_in_Individuals_with_Internet_Addiction_Disorder_An_Event-Related_Potential_Study)
 * [Adaptations for social cognition in the primate brain](https://www.researchgate.net/publication/290455080_Adaptations_for_social_cognition_in_the_primate_brain)
@@ -11,7 +11,7 @@ The team worked in sub-teams of three to present the papers mentioned above.
 
 Next week, the team took up indiviual papers approved by the Faculty mentor, Prof. K.M. Sharika.
 
-**The papers read and analyzed in the next week:**
+#### The papers read and analyzed in the next week:
 * ["Feeling" the Pain of Those Who Are Different From Us: Modulation of EEG in the Mu/Alpha Range](https://pubmed.ncbi.nlm.nih.gov/21098810/)
 * [Visually Induced Analgesia: Seeing the Body Reduces Pain](https://www.jneurosci.org/content/jneuro/29/39/12125.full.pdf)
 * [Expectation of nocebo hyperalgesia affects EEG alpha-activity](https://www.sciencedirect.com/science/article/abs/pii/S0167876016306845)
@@ -26,3 +26,5 @@ Apart from the papers, there were a few **books** which could enbale further dep
 1. Analysing neural time series data: theory & practice by Mike Cohen
 2. Electric Fields of the Brain by Paul Nunez & Ramesh Srinivasan
 3. An introduction to the event related potential technique by Steven Luck
+
+The resource used to easily access research papers was [Sci-hub](https://sci-hub.tw/)
