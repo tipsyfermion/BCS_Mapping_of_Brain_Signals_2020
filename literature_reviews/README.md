@@ -26,5 +26,3 @@ Apart from the papers, there were a few **books** which could enbale further dep
 1. Analysing neural time series data: theory & practice by Mike Cohen
 2. Electric Fields of the Brain by Paul Nunez & Ramesh Srinivasan
 3. An introduction to the event related potential technique by Steven Luck
-
-The resource used to easily access research papers was [Sci-hub](https://sci-hub.tw/)
